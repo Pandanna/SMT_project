@@ -1,6 +1,10 @@
 # SMT_project
 
-Counting Game SolverA Z3 SMT Solver-based solution for the Counting game and its attack-resilient variant.Project DescriptionThis project implements two strategies to solve the Counting game:Base Game
+Counting Game SolverA Z3 SMT Solver-based solution for the Counting game and its attack-resilient variant.
+
+## Project Description
+
+This project implements two strategies to solve the Counting game:Base Game
 The player has 6 different numbers and must combine them using elementary arithmetic operations (+, -, *, /) to get as close as possible to a given goal number.Rules:
 
 Each number can be used only once
