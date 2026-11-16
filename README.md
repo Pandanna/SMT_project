@@ -126,8 +126,3 @@ CountingStrategy([1, 3, 5, 8, 10, 50], 462)
 CountingStrategyResilient([1, 3, 5, 8, 10, 50], 462)
 ```
 
----
-
-## Author
-
-**Anna Chiara Mameli** · [github.com/Pandanna](https://github.com/Pandanna)
